@@ -1,0 +1,279 @@
+p {
+  font-family: roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.name {
+  font-weight: bold;
+}
+.free-time {
+  color: rgb(101, 101, 170);
+}
+.story {
+  width: 550px;
+  margin-bottom: 18px;
+}
+.one {
+  margin-bottom: 8px;
+}
+.id {
+  color: rgb(41, 151, 255);
+}
+
+.back-button{
+  background-color: white;
+  padding: 12px 10px 12px 10px;
+  border-radius: 3px;
+   border: solid 2px;
+  border-color: rgb(122, 122, 122);
+  margin-right: 15px;
+  margin-top: 50px;
+}
+.search-result{
+  margin-left: 4px;
+  margin-right: 4px;
+  font-size: 18px;
+}
+
+.next-button{
+  background-color: white;
+  padding: 12px 10px 12px 10px;
+  border-radius: 3px;
+  border: solid 2px;
+  border-color: rgb(122, 122, 122);
+  margin-left: 15px;
+}
+.stretch-button{
+  border: none;
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+  background-color: rgb(12, 238, 12);
+  font-size: medium;
+  transition: padding-top 1s,
+  padding-bottom 1s, padding-left 1s,
+  padding-right 1s;
+}
+.stretch-button:hover{
+  border: none;
+  color: white;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+  background-color: rgb(12, 238, 12);
+  font-size: medium;
+  
+}
+
+.shadow-button{
+  background-color:rgb(12, 238, 12);
+  padding: 10px 20px 10px 20px;
+  margin-left: 20px;
+  margin-top: 50px;
+  border: none;
+  color: white;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.shadow-button:active{
+  margin-left: 25px;
+  margin-top: 55px;
+}
+
+.first-button{
+  margin-top: 50px;
+  background-color:rgb(12, 238, 12);
+  color: white;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  transition: 0.3s;
+}
+.first-button:hover{
+  padding: 10px 30px 10px 30px;
+}
+
+.second-button{
+  margin-top: 50px;
+  margin-left: 20px;
+  background-color:rgb(12, 238, 12);
+  color: white;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  transition: 0.3s;
+}
+.second-button:hover{
+  padding: 10px 30px 10px 30px;
+}
+
+.third-button{
+  margin-top: 50px;
+  margin-left: 20px;
+  background-color:rgb(12, 238, 12);
+  color: white;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  transition: 0.3s;
+}
+.third-button:hover{
+  padding: 10px 30px 10px 30px;
+}
+
+.tahoma-font {
+  font-style: tahoma;
+  font-weight: bold;
+}
+
+.deals {
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.sales {
+  font-style: italic;
+  color: red;
+  margin-top: 0px;
+}
+
+.course-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.move {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: grey;
+  margin-top: 0px;
+  font-size: 15px;
+
+}
+
+.course-description {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 300px;
+}
+
+.start-button {
+  padding: 10px 20px 10px 20px;
+  background-color: rgb(61, 190, 61);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.shopping {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 0px;
+
+}
+
+.how {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.learn {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.new {
+  text-align: center;
+  color: red;
+  margin-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.macbookpro{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.supercharged {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.dollarsign {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 0px;
+}
+.button-button {
+  color: white;
+  margin-top: 0px;
+  background-color: rgb(2, 97, 175);
+  border: none;
+  padding: 8px 15px 8px 15px;
+  border-radius: 15px;
+}
+.centerbutton {
+  text-align: center;
+}
+.buy {
+  background-color: rgb(0, 113, 227);
+  color: white;
+  padding: 7px 15px 7px 15px;
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  transition: 0.15s;
+}
+.buy:hover {
+  background-color: rgb(60, 145, 236);
+}
+.buy:active {
+  background-color: rgb(149, 188, 226);
+  margin-bottom: 0px;
+}
+.amount {
+  margin-bottom: 8px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.currency {
+  font-size: 20px;
+  color: rgb(142, 151, 201);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.percentage {
+  color: rgb(45, 133, 64);
+  margin-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.present-time {
+  color: rgb(142, 151, 201);
+  margin-top: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.future-time {
+  color: rgb(190, 52, 52);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.zero {
+  margin-bottom: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.zeroone {
+  margin-bottom: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
